@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Joe Doe 1",
+      "address": "102 Albert st",
+      "phone": "(123)-897-1245",
+      "position": "Developer"
+    },
+    {
+      "name": "Joe Doe 2",
+      "address": "102 Albert st",
+      "phone": "(123)-897-1245",
+      "position": "Developer"
+    },
+    {
+      "name": "Joe Doe 3",
+      "address": "102 Albert st",
+      "phone": "(123)-897-1245",
+      "position": "Developer"
+    }
+  
+  ]
